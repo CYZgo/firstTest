@@ -13,4 +13,8 @@ public class GitTest {
     public void b(){
 
     }
+    
+    public void d(){
+    
+    }
 }
